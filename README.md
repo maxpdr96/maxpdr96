@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxpdr96&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxpdr96&layout=compact&langs_count=5&hide=CSS,html&theme=dracula)](https://github.com/maxpdr96/github-readme-stats)
+
 
 <!--
 **maxpdr96/maxpdr96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
