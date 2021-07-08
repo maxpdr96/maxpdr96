@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **OriginalApp**.
+- 👨‍💻 I'm currently working full-time at **Company**.
 - 🌱 Learning more about and studying: **Java, Clojure, Rust and Lua**.
 - 💙 Interests: Animes, Games, Lightnovels, Mangás.
 
