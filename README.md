@@ -2,7 +2,7 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Company**.
-- 🌱 Learning more about and studying: **Java, Nim, Rust and Lua**.
+- 🌱 Learning more about and studying: **Java, Zig, Nim, Rust and Lua**.
 - 💙 Interests: Animes, Games, Lightnovels, Mangás.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxpdr96&show_icons=true&theme=dracula)
